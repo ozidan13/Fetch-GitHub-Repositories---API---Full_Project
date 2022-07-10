@@ -36,7 +36,7 @@ Fetch GitHub Repositories - API - Full_Project
 - Platforms : Upwork - PPH - Freelancer
 * Portfolio and my previous work: 
 - [My GitHub](https://github.com/ozidan13?tab=repositories).
-- [My bEHANCE](https://www.behance.net/O_Zidan).
+- [My Behance](https://www.behance.net/O_Zidan).
 
 I have powerful computer science knowledge and am eager to learn more concepts and deep dive into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
 
