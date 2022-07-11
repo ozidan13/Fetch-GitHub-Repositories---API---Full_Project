@@ -6,7 +6,7 @@ Fetch GitHub Repositories - API - Full_Project
     <img src="GitHub.png" height="200" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Osama;FrontEnd+Developer;Freelancer;UI/UX Designer" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Osama;FrontEnd+Developer;Freelancer;UI+UX+Designer" />
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/ozidan/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
